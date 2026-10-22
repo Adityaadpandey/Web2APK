@@ -1,5 +1,7 @@
 {
   "_help": "source = which Web2APK build script runs. \".\" = the build script inside THIS repo (your edited fork). \"clone\" = the official tagged release cloned from the main Web2APK repo (default). builds = list of app folders inside .github (each holds app.json and icon.png). Folders not listed are ignored. Keys starting with _ are ignored.",
-  "source": ".",
-  "builds": ["elephant", "test"]
+  "source": "clone",
+  "builds": [
+    "tunyt"
+  ]
 }

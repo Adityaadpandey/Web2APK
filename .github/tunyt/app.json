@@ -1,0 +1,14 @@
+{
+    "appName": "Tunyt",
+    "appId": "com.tunyt.app",
+    "versionName": "1.0.0",
+    "versionCode": 1,
+    "apkName": "tunyt",
+    "url": "https://tunyt.com",
+    "allowNavigation": [
+        "tunyt.com",
+        "*.tunyt.com"
+    ],
+    "orientation": "portrait",
+    "offlinePage": true
+}
